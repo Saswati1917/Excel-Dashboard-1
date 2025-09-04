@@ -111,7 +111,7 @@ Discount Percentage – Discounts applied
 
 📂 **Project Files**
 
-📥 Download Excel Dashboard 1
+📥 [Download Excel Dashboard 1](./excel_dashboard_1.xlsx)
 
 README.md (project documentation)
 
